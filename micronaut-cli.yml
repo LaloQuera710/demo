@@ -1,0 +1,6 @@
+applicationType: grpc
+defaultPackage: com.example
+testFramework: kotest
+sourceLanguage: kotlin
+buildTool: maven
+features: [annotation-api, app-name, grpc, jackson-databind, kotest, kotlin, kotlin-application, logback, maven, readme, shade, yaml]
